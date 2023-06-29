@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: SWAMP Archive
 
 # Listing view
 view: citation

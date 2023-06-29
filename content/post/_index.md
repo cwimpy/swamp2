@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Lost in Space
 
 # Listing view
 view: compact
