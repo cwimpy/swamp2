@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        About
+        Spatial Weights and Matrics Project
       image:
         filename: welcome.jpg
       text: |
