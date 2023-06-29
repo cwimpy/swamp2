@@ -29,13 +29,13 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$ \.qmd]
 permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
@@ -57,6 +57,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+      renderer:
+        unsafe: true
 related:
   threshold: 80
   includeNewer: true
