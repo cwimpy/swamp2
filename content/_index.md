@@ -13,7 +13,6 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
 		SWAMP is a scholar-driven effort to simplify and share in the analysis of spatial data in the social sciences. Click on the the archive link to explore submitted data.
   - block: collection
     content:
