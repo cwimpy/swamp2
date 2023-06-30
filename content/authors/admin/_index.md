@@ -15,7 +15,7 @@ role: Associate Professor of Political Science
 # Organizations/Affiliations
 organizations:
   - name: Arkansas State University
-    url: ''
+    url: 'http://astate.edu'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include elections, political methodology, political economy, and public policy.
