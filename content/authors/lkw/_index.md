@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Cameron Wimpy
+title: Laron K. Williams
 
 # Full Name (for SEO)
-first_name: Cameron Wimp
-last_name: Wimpy
+first_name: Laron
+last_name: Williams
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Professor of Political Science
+role: Professor of Political Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Arkansas State University
-    url: 'http://astate.edu'
+  - name: University of Missouri
+    url: 'http://missouri.edu'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include elections, political methodology, political economy, and public policy.
