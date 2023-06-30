@@ -5,7 +5,7 @@
 
 main:
   - name: Archive
-    url: archive
+    url: publication
     weight: 10
   - name: "Lost in Space"
     url: post
