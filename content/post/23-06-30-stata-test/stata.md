@@ -39,5 +39,3 @@ Do a t-test
 
         Ha: diff < 0                 Ha: diff != 0                 Ha: diff > 0
      Pr(T < t) = 0.0003         Pr(|T| > |t|) = 0.0005          Pr(T > t) = 0.9997
-
-     . twoway scatter mpg weight

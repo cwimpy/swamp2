@@ -1,6 +1,6 @@
 project:
   title: "SWAMP"
-  type: website
+  type: hugo
   render:
     - "*.qmd"
     - "!public/"
