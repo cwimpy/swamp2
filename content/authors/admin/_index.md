@@ -3,7 +3,7 @@
 title: Cameron Wimpy
 
 # Full Name (for SEO)
-first_name: Cameron Wimp
+first_name: Cameron
 last_name: Wimpy
 
 # Is this the primary user of the site?
