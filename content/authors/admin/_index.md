@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: bio: My research interests include elections, political methodology, political economy, and public policy.
+bio: My research interests include elections, political methodology, political economy, and public policy.
 
 interests:
 - Data Science
