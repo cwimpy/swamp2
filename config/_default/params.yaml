@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: ocean
+  theme_day: cyberpunk
+  theme_night: cyberpunk
   font: native
   font_size: L
 
