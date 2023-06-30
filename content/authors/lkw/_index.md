@@ -54,6 +54,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+highlight_name: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,4 +65,4 @@ user_groups:
 - Principal Investigators
 ---
 
-Laron K. Williams joined the political science department at Missouri in 2011 after spending two years at Texas Tech University. He has a Ph.D. from Texas A&M University and a B.S. from the University of Nebraska at Kearney. Dr. Williams’ research interests include examining political behavior in advanced democracies, creating methods to improve substantive interpretation of empirical models, and exploring the domestic political consequences of foreign policy. His research has been published in the *American Journal of Political Science*, *Political Analysis*, the *Journal of Politics*, *International Studies Quarterly*, and the *British Journal of Political Science*, among others.
+I'm Professor and Director of Graduate Studies in the Truman School of Government and Public Affairs at the University of Missouri. My research examines voting behavior, party competition, spatial econometrics, and interpretation practices.  My research has been published in the *American Journal of Political Science*, *Political Analysis*, the *Journal of Politics*, *International Studies Quarterly*, and the *British Journal of Political Science*, among others.
