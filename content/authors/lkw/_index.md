@@ -7,7 +7,7 @@ first_name: Laron
 last_name: Williams
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Professor of Political Science
