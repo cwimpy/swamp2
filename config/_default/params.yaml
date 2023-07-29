@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Making spatial analyses accessible and reproducible.'
-    twitter: 'wowchemy'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Laron K. Williams & Cameron Wimpy. This work is licensed under {license}'
+    notice: '© {year} the authors. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
