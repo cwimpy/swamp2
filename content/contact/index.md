@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         Get in touch if you have questions, want to add data to our archive, or make a guest post. 
-      email: cwimpy@astate.edu	
+      email: 
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
