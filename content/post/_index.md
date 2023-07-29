@@ -8,5 +8,5 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'assets/images/lost.jpg'
+  image: 'assets/media/lost.jpg'
 ---

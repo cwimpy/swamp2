@@ -10,7 +10,7 @@ sections:
       title: |
         Spatial Weights and Matrices Project
       image:
-        filename: assets/images/welcome.jpg
+        filename: 'assets/media/welcome.jpg'
       text: |
         <br>
         
