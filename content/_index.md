@@ -8,9 +8,9 @@ sections:
   - block: hero
     content:
       title: |
-        Spatial Weights and Matrics Project
+        Spatial Weights and Matrices Project
       image:
-        filename: welcome.jpg
+        filename: assets/images/welcome.jpg
       text: |
         <br>
         
