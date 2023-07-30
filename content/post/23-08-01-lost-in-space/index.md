@@ -1,6 +1,8 @@
 ---
 title: The Purpose of this Space
-date: 2023-08-01
+date: 2023-07-29
+image:
+  focal_point: 'top'
 ---
 
 Our Intentions for "Lost in Space."
