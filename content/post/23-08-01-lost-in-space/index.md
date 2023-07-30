@@ -3,7 +3,7 @@ title: What are We Doing Here?
 date: 2023-07-29
 image:
   focal_point: 'top'
-author: admin
+author: 'SWAMP'
 ---
 
 ### Our Intentions for "Lost in Space."
