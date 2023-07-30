@@ -8,7 +8,6 @@ sections:
   - block: hero
     content:
       title: |
-        Spatial Weights and Matrices Project
       image:
         filename: welcome.jpg
       text: |
@@ -18,7 +17,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest Posts
+      title: Recent Additions
       subtitle:
       text:
       count: 5
@@ -30,7 +29,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: publication
     design:
       view: card
       columns: '1'
