@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Spatial Weights and Matrices Project
       image:
         filename: welcome.jpg
       text: |
