@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/cwimpy/swamp'
+    url: 'https://github.com/cwimpy/swamp2'
     content_dir: content
     branch: main
   avatar:
