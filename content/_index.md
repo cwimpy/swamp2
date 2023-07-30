@@ -9,7 +9,7 @@ sections:
     content:
       title: |
       image:
-        filename: media/welcome.jpg
+        filename: uploads/welcome.jpg
       text: |
         <br>
         
