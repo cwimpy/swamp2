@@ -38,11 +38,11 @@ featured: false
 
 
 links:
-- name: Other Link
-  url: http://example.org
+- name: Replication Materials
+  url: https://doi.org/10.7910/DVN/RFYOH6
 url_pdf: uploads/jop-preprint.pdf
-url_code: https://doi.org/10.1086/710089
-url_dataset: https://doi.org/10.7910/DVN/RFYOH6
+url_code: 
+url_dataset: 
 url_poster: ''
 url_project: ''
 url_slides: ''
