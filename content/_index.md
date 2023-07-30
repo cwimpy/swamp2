@@ -17,7 +17,7 @@ sections:
   
   - block: collection
     content:
-      title: Recent Additions
+      title: Latest Posts
       subtitle:
       text:
       count: 5
@@ -29,7 +29,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: publication
+      page_type: post
     design:
       view: card
       columns: '1'
