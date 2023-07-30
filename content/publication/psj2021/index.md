@@ -1,5 +1,5 @@
 ---
-title: "Learning at Home and Abroad: How Competition Conditions the Diffusion of Party Strategies"
+title: "Taking Time (and Space) Seriously: How Scholars Falsely Infer Policy Diffusion from Model Misspecification"
 type: publication
 authors:
 - Cody A. Drolc
