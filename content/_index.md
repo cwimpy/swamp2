@@ -8,8 +8,10 @@ sections:
   - block: hero
     content:
       title: |
+        Wowchemy
+        Research Group
       image:
-        filename: featured.jpg
+        filename: welcome.jpg
       text: |
         <br>
         
