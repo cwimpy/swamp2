@@ -1,25 +1,23 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-8-1
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
       image:
-        filename: welcome.jpg
+        filename: media/welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        SWAMP is a scholar-driven effort to simplify and share in the analysis of spatial data in the social sciences. Click on the the archive link to explore submitted data.
   
   - block: collection
     content:
-      title: Latest News
+      title: Recent Additions
       subtitle:
       text:
       count: 5
@@ -31,17 +29,9 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: publication
     design:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
----
+---		
