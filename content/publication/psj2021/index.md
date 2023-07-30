@@ -38,11 +38,11 @@ featured: false
 
 
 links:
-- name: Other Link
-  url: http://example.org
-url_pdf: uploads/jop-preprint.pdf
-url_code: https://doi.org/10.1086/710089
-url_dataset: https://doi.org/10.7910/DVN/RFYOH6
+- name: Replication
+  url: https://williamslaro.github.io/Drolc,%20Gandrud%20and%20Williams--Replication.zip
+url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.12374?casa_token=11vnPgZnIiYAAAAA%3A-H0zwlwD_Jkt3PSE2jj-JToU15sGVisZ02brS4omcBBF9Bp_7Bq-YvJL05OsC1N4SvT-yCkUMFOOXQ'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
