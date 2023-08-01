@@ -3,7 +3,6 @@ title: "Example Weights Matrix"
 type: publication
 authors:
 - Example Author
-author_notes:
 date: "2023-03-01T00:00:00Z"
 doi: ""
 
@@ -37,7 +36,7 @@ links:
   url: http://example.com
 url_pdf: ''
 url_code: ''
-url_dataset: 'uploads/example.csv'
+url_dataset: uploads/example.csv
 url_poster: ''
 url_project: ''
 url_slides: ''
