@@ -22,7 +22,7 @@ publication_short: "Examples"
 abstract: In this example we show how we will host data, projects, and weights on the archive. 
 
 # Summary. An optional shortened abstract.
-summary: We contend that spatial-X (SLX) models are a better reflection of typical theories about spatial processes.
+summary: In this example we show how we will host data, projects, and weights on the archive. 
 
 tags:
 - Politcal Science 
