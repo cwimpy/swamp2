@@ -1,16 +1,11 @@
 ---
-title: "X Marks the Spot: Discovering the Treasure of Spatial-X Models"
+title: "Example Weights Matrix"
 type: publication
 authors:
-- admin
-- Guy D. Whitten
-- Laron K. Williams
+- Example Author
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-date: "2021-03-01T00:00:00Z"
-doi: "10.1086/710089"
+date: "2023-03-01T00:00:00Z"
+doi: "https://www.doi.org"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-01"
@@ -22,10 +17,10 @@ publishDate: "2020-04-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Politics*"
-publication_short: "JoP"
+publication: "*Journal of Examples*"
+publication_short: "Examples"
 
-abstract: In recent years, political scientists have made extensive use of spatial econometric models to test a wide range of theories. In a review of spatial papers, we find that a majority of these studies use the spatial autoregressive (SAR) model. Although this is a powerful method that reveals inferences about diffusion processes, it is also highly restrictive and makes assumptions that often are not appropriate given the expressed theories. We contend that spatial-X (SLX) models are a better reflection of typical theories about spatial processes. Our simulations demonstrate that SLX models consistently retrieve the direct and indirect effects of covariates when the true data- generating process reflects other spatial processes. SAR models, on the other hand, tend to find phantom higher-order effects that are not present in the data. We further demonstrate how SLX models reveal heterogeneity in patterns of spatial dependence in countries’ defense burdens that SAR models cannot discover.
+abstract: In this example we show how we will host data, projects, and weights on the archive. 
 
 # Summary. An optional shortened abstract.
 summary: We contend that spatial-X (SLX) models are a better reflection of typical theories about spatial processes.
@@ -39,10 +34,10 @@ featured: false
 
 links:
 - name: Replication Materials
-  url: https://doi.org/10.7910/DVN/RFYOH6
-url_pdf: uploads/jop-preprint.pdf
-url_code: 
-url_dataset: 
+  url: http://example.com
+url_pdf: ''
+url_code: ''
+url_dataset: https://www.doi.org
 url_poster: ''
 url_project: ''
 url_slides: ''
