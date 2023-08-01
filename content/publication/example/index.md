@@ -37,7 +37,7 @@ links:
   url: http://example.com
 url_pdf: ''
 url_code: ''
-url_dataset: https://www.doi.org
+url_dataset: 'uploads/example.csv'
 url_poster: ''
 url_project: ''
 url_slides: ''
